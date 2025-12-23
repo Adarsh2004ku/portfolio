@@ -1,0 +1,10 @@
+To add your profile picture:
+
+1. Save your image file here in this directory
+2. Name it: profile.jpg (or profile.png if PNG format)
+3. Supported formats: .jpg, .jpeg, .png, .webp
+4. Recommended size: 400x400px (square format)
+5. The portfolio will automatically use it once the file is added
+
+The image path is already configured in src/data/profile.js
+
