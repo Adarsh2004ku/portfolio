@@ -23,7 +23,7 @@ export const profileConfig = {
   // Social Links
   social: {
     github: "https://github.com/Adarsh2004ku",
-    linkedin: "https://linkedin.com/in/Adarsh2004ku",
+    linkedin: "https://www.linkedin.com/in/adarsh-kumar-714108314/",
     email: "adarsh2022ji@email.com",
     phone: "+91-8340115106",
   },
